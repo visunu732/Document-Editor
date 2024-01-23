@@ -19,7 +19,7 @@
   - MongoDB server running on mongodb://127.0.0.1:27017
 ### Inastallation
   - Clone repository
-  - git clone https://github.com/your-username/real-time-document-editor.git
+  - git clone https://github.com/vishaljadhav207/Document-Editor.git
   - cd client
   - npm install
   - cd ../server
