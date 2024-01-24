@@ -1,6 +1,6 @@
 # Real-Time Document Editor
-## This is a real-time document editor that allows multiple users to collaboratively edit a shared document. 
-## The application uses WebSocket for real-time communication and MongoDB for persistent storage.
+### This is a real-time document editor that allows multiple users to collaboratively edit a shared document. 
+### The application uses WebSocket for real-time communication and MongoDB for persistent storage.
 
 ### Technologies Used
 1. Frontend:
