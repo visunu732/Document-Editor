@@ -16,17 +16,7 @@ https://github.com/vishaljadhav207/Document-Editor/assets/95490543/5661e0c8-f10a
   - Socket.io (WebSocket server for real-time communication)
   - MongoDB (Database for storing document data)
 
-### Setup Instructions
-  - Prerequisites
-  - Node.js installed on your machine
-  - MongoDB server running on mongodb://127.0.0.1:27017
-### Inastallation
-  - Clone repository
-  - git clone https://github.com/vishaljadhav207/Document-Editor.git
-  - cd client
-  - npm install
-  - cd ../server
-  - npm install
+3. start
   - cd server
   - npm start
   - cd client
